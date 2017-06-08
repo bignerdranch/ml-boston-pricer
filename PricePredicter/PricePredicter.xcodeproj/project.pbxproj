@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		1C54E5171EE8A0750062B836 /* BostonPricer.mlmodel in Sources */ = {isa = PBXBuildFile; fileRef = 1C54E5161EE8A0750062B836 /* BostonPricer.mlmodel */; };
+		1C5141D51EE8CB4500715346 /* BostonPricer.mlmodel in Sources */ = {isa = PBXBuildFile; fileRef = 1C5141D41EE8CB4500715346 /* BostonPricer.mlmodel */; };
 		1CBCE3B61EE7447C00182484 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1CBCE3B51EE7447C00182484 /* AppDelegate.swift */; };
 		1CBCE3B81EE7447C00182484 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1CBCE3B71EE7447C00182484 /* ViewController.swift */; };
 		1CBCE3BB1EE7447C00182484 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1CBCE3B91EE7447C00182484 /* Main.storyboard */; };
@@ -18,7 +18,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		1C54E5161EE8A0750062B836 /* BostonPricer.mlmodel */ = {isa = PBXFileReference; lastKnownFileType = file.mlmodel; name = BostonPricer.mlmodel; path = ../../../../../../Desktop/BostonPricer.mlmodel; sourceTree = "<group>"; };
+		1C5141D41EE8CB4500715346 /* BostonPricer.mlmodel */ = {isa = PBXFileReference; lastKnownFileType = file.mlmodel; path = BostonPricer.mlmodel; sourceTree = "<group>"; };
 		1CBCE3B21EE7447C00182484 /* PricePredicter.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = PricePredicter.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		1CBCE3B51EE7447C00182484 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		1CBCE3B71EE7447C00182484 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -76,7 +76,7 @@
 		1CBCE3C71EE7449400182484 /* Resources */ = {
 			isa = PBXGroup;
 			children = (
-				1C54E5161EE8A0750062B836 /* BostonPricer.mlmodel */,
+				1C5141D41EE8CB4500715346 /* BostonPricer.mlmodel */,
 			);
 			path = Resources;
 			sourceTree = "<group>";
@@ -153,7 +153,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				1CBCE3CF1EE75DF100182484 /* CrimeDataSource.swift in Sources */,
-				1C54E5171EE8A0750062B836 /* BostonPricer.mlmodel in Sources */,
+				1C5141D51EE8CB4500715346 /* BostonPricer.mlmodel in Sources */,
 				1CBCE3B81EE7447C00182484 /* ViewController.swift in Sources */,
 				1CBCE3B61EE7447C00182484 /* AppDelegate.swift in Sources */,
 				1CBCE3CD1EE75B4600182484 /* RoomsDataSource.swift in Sources */,
